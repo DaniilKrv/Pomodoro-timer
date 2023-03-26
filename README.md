@@ -8,7 +8,7 @@ Pomodoro timer
 
 ### Links
 
-- Live Site URL: (https://lighthearted-caramel-d2dc6d.netlify.app/)
+- Live Site URL: (https://scintillating-marigold-780cb2.netlify.app/)
 
 ### Built with
 
