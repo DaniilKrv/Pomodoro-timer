@@ -65,7 +65,6 @@ section {
 }
 
 .switch-panel div {
-  transition: 1s ease-in;
   cursor: pointer;
 }
 
