@@ -4,7 +4,7 @@ Pomodoro timer
 
 ### Demonstration
 
-![](./screen.png)
+![](./src/screen.png)
 
 ### Links
 
